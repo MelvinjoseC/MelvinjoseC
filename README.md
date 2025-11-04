@@ -18,7 +18,7 @@
 💡 I’m a **Full Stack Developer** passionate about building efficient, scalable, and secure web applications using **Python, Django, React.js, and modern DevOps tools**.  
 I love crafting seamless user experiences, automating workflows, and deploying cloud-based solutions with reliability and speed.
 
-- 🧑‍💻 Currently: **Junior Python Developer @ Fusie Engineers Pvt. Ltd.**
+- 🧑‍💻 Currently: **Fullstack Developer**
 - ☁️ Exploring **AWS, Docker, Jenkins, and CI/CD**
 - 💬 Ask me about **Python | Django | React.js | DevOps | AWS | Tkinter | Inventor Automation**
 - 🌱 Constantly learning and experimenting with **cloud technologies, automation, and web app optimization**
