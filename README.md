@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="mailto:melvinjose025@gmail.com"><img src="https://img.shields.io/badge/Email-me-FF5A5F?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel"/></a>
+  <a href="https://github.com/Melvinjosec"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
+  <a href="https://github.com/MelvinCjos"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
+  <a href="linkedin.com/in/melvinchackojose"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"/></a>
+  <a href="https://melvincjos.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel"/></a>
   <a href="YOUR_HACKERRANK_URL"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank"/></a>
   <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
 </p>
